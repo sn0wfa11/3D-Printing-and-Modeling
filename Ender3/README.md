@@ -2,6 +2,7 @@
 
 ## Ender 3 slic3r PE Profile
 **READ ME BEFORE USING**
+
 These profiles are customized for the mods and settings on my Ender3 printer which include:
 - BL Touch
 - E3D Hot End
