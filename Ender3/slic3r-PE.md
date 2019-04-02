@@ -17,8 +17,21 @@ https://www.prusa3d.com/drivers/
   - The download will be a .ZIP file. Extract this to a regular folder in the location of your choosing.
   - To run slic3r PE, double click the `slic3r.exe` file in the folder that you extracted the .ZIP file to.
   - You can make a link on your desktop to this file by left clicking then selecting New | Shortcut. Browse to the location of `slic3r.exe` and then set the shortcut name.
+  - You may be presented with a SmartScreen message. Click "More info", the click the "Run anyway" button.
 - For Mac, the download is a normal DMG file. Install as usuall for that package type.
 - For source code install, you will need to follow the build and install instructions in the Github Repo.
 
 https://github.com/prusa3d/Slic3r/releases
+
+## Initial Setup
+### 1.41.x
+
+
+### 1.42.0
+- Open slic3r PE and you will be presented with a Configuration Wizard.
+  - If you have Prusa printers or would like to set up your own custom printer you can follow the wizard. 
+  - If you plan to use my provided profile or one from another site, click "Cancel".
+- Download my provided profile to your computer.
+- In slic3r PE, click File | Import | Import Config Bundle...
+- Select the profile you just downloaded for import, then click "Open"
 
