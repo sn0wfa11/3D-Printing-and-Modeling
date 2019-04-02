@@ -7,6 +7,7 @@ These profiles are customized for the mods and settings on my Ender3 printer whi
 - BL Touch
 - E3D Hot End
 - Bondtech Axtruder
+- High Output 5015 Fan
 - Linear Advance
 
 You will want to review the following sections and tune/change acording to your printer setup:
@@ -18,3 +19,6 @@ You will want to review the following sections and tune/change acording to your 
   - Layer and perimeter preferences
 - Filament Settings
   - Custom G-code - Linear Advance Setting - The "K" value listed in this field is specific to my setup.
+
+## Slic3r PE Install and Setup Instructions
+https://github.com/sn0wfa11/3D-Printing-and-Modeling/blob/master/Ender3/slic3r-PE.md
